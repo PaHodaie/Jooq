@@ -8,4 +8,4 @@ Java Object Oriented Querying (JOOQ) is a database-mapping library, its purpose 
 2-ABOUT APPLICATION
 
 Application implements CRUD operations through JOOQ. IDE was Eclipse helios and database Postgresql V9. 
-I have used this Article: https://github.com/frank-rahn
+I have used this Article: http://www.pretechsol.com/2013/12/how-to-generate-jooq-code-using-eclipse.html
